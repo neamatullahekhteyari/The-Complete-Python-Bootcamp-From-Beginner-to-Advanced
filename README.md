@@ -1,2 +1,7 @@
-# The-Complete-Python-Bootcamp-From-Beginner-to-Advanced
-This repository contains Jupyter Notebooks from the Complete Python Bootcamp: From Beginner to Advanced course on Udemy. It covers everything from Python basics to advanced topics like OOP, APIs, and web scraping, with real-world projects. Clone the repo and start learning Python hands-on!
+Course Files for The-Complete-Python-Bootcamp-From-Beginner-to-Advanced Course on Udemy
+
+Copyright(©) by Neamatullah Ekhteyari.
+
+Get it now for 95% off with the link: 
+
+Thanks!
