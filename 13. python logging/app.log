@@ -1,0 +1,3 @@
+2025-03-26 00:39:06,380 - MultiHandlerLogger - DEBUG - this message is logged only in the file
+2025-03-26 00:39:06,383 - MultiHandlerLogger - INFO - this message is logged in both the file and console.
+2025-03-26 00:39:06,388 - MultiHandlerLogger - ERROR - this error is logged in both the file and console.
