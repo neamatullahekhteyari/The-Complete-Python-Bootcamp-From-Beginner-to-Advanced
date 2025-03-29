@@ -1,0 +1,5 @@
+[INFO] User logged in.
+[ERROR] Database connection failed.
+[DEBUG] API request received.
+[WARNING] Low disk space.
+[INFO] System update completed.
