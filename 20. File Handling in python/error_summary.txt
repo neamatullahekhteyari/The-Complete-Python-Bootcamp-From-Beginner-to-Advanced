@@ -1,0 +1,8 @@
+Log file Analysis Report
+========================
+Total Erros: 2
+Total Warning: 1
+Total Info Messages: 2
+Error Breakdown:
+Database connection failed.: 1 occurrances
+File not found.: 1 occurrances

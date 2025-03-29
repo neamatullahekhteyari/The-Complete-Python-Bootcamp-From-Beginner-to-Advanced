@@ -1,0 +1,2 @@
+python is fun!
+ let's learn file handling.
